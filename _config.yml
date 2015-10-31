@@ -2,6 +2,7 @@ name: lescase
 favicon: null
 layout_spectrum: 0.03245377936400473
 typography_spectrum: 0.017832322046160698
+title: LESCASE
 cta:
   domain: null
   bucket: null

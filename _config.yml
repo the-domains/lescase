@@ -1,0 +1,23 @@
+name: lescase
+favicon: null
+layout_spectrum: 0.03245377936400473
+typography_spectrum: 0.017832322046160698
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4662179958540946
+  lightness: 0.17219335562549531
+  saturation: 0.44803756824694574
+  rhythmicContrast: 0.7634101917501539
+purpose: []
